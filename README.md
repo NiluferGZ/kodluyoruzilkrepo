@@ -4,6 +4,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ![github](https://www.upload.ee/image/14493070/11.PNG)
 
+## Ulaşım
+
+[Patika Profilim](https://app.patika.dev/nlglrsnmz)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
